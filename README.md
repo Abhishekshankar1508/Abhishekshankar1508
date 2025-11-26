@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi I'm Abhishek SM 👋
 
-<!--
-**Abhishekshankar1508/Abhishekshankar1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.gifdb.com/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif" width="350"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhishek-sm-253a67376">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📚 About me
+
+* 📖 I'm a **Bachelor of Commerce Student**.
+* 🏫 I'm currently pursuing my degree at **St. Francis de Sales College / Bangalore University, Bengaluru**.
+* 🚀 My key areas of interest include **HR, Accounting,** and **HTML basics**.
+
+---
+
+### ⚡ Fun Fact
+
+> I have ocular motility.
