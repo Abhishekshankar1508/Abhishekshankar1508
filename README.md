@@ -1,7 +1,7 @@
 # Hi I'm Abhishek SM 👋
 
 <div align="center">
-  <img src="https://media.gifdb.com/coding-penguin-i-like-pressing-buttons-puv3coc5z4pkth51.gif" alt="I Like Pressing Buttons GIF" width="350"/> 
+  <img src="pressing-buttons.gif" alt="I Like Pressing Buttons GIF" width="350"/> 
 </div>
 
 <div align="center">
